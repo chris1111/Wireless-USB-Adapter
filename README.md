@@ -36,8 +36,8 @@ The system is required to reboot after the driver is installed, so please close 
     - 6. Click the "Save" button.
  
 [![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/screen64.png)
-[![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/screen62.png)
-[![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/screen63.png)
+[![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/68747414.png)
+[![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/68747415.png)
 [![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/156.png)
 
 
