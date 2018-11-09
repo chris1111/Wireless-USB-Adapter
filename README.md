@@ -1,7 +1,7 @@
 # Wireless USB Adapter
 
  ### Welcome to Wireless USB Adapter
- - Special thanks to [adzodamelk](https://github.com/adzodamelk) for testing the package
+ - Special thanks to [adzodamelk](https://github.com/adzodamelk) for make testing on a MacBook Air
 
 
 #### Drivers for Realtek 802.11n and 802.11ac USB Wi-Fi adapters 
