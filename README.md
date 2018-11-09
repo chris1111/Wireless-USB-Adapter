@@ -6,7 +6,7 @@
 
 #### Packages for macOS (Real Mac) working also for Hackintosh PC or Laptop
 
-#### Special thanks to [adzodamelk](https://github.com/adzodamelk) for make 
+- Special thanks to [adzodamelk](https://github.com/adzodamelk) for make 
  [testing on a MacBook Air](https://github.com/chris1111/Wireless-USB-Adapter-Clover/issues/3#issuecomment-437034409)
 
 
