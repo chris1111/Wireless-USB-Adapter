@@ -40,8 +40,13 @@ The system is required to reboot after the driver is installed, so please close 
 [![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/68747415.png)
 [![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/156.png)
 
+#### Download Release V2 [➤ Wireless USB Adapter.pkg ](https://github.com/chris1111/Wireless-USB-Adapter/releases/tag/V2)
+- Release 10 Nov 2018 (Fast edition install)
 
-#### Download the Latest Release [➤ Wireless USB Adapter.pkg ](https://github.com/chris1111/Wireless-USB-Adapter/releases)
+
+#### Download Release V1 [➤ Wireless USB Adapter.pkg ](https://github.com/chris1111/Wireless-USB-Adapter/releases)
+- Release 08 Nov 2018 (Slow edition install Rebuild prelinked-kernel) 
+
 
 #### - Support Drivers:
 - 8723BU
