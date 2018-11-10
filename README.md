@@ -44,7 +44,7 @@ The system is required to reboot after the driver is installed, so please close 
 - Release 10 Nov 2018 (Fast edition install)
 
 
-#### Download Release V1 [➤ Wireless USB Adapter.pkg ](https://github.com/chris1111/Wireless-USB-Adapter/releases)
+#### Download Release V1 [➤ Wireless USB Adapter.pkg ](https://github.com/chris1111/Wireless-USB-Adapter/releases/tag/V1)
 - Release 08 Nov 2018 (Slow edition install Rebuild prelinked-kernel) 
 
 
