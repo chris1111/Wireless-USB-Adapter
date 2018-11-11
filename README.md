@@ -48,7 +48,7 @@ The system is required to reboot after the driver is installed, so please close 
 - Release 08 Nov 2018 (Slow edition install Rebuild prelinked-kernel) 
 
 <details> 
-  <summary>Support Drivers: </summary>
+  <summary>### Support Drivers: </summary>
 - 8723BU
 - 8821AU
 - ArcherT4U V3
