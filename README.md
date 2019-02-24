@@ -23,7 +23,7 @@
 
 
 ##### For macOS Mojave
-- (SIP activate) You must accept the three pop up preferance system for the kernel extensions and after the reboot you must allocate Realtek Utility in Security & privacy
+- (SIP activate) You must accept the three pop up preferance system for the kernel extensions and after the reboot you must allow Realtek Utility in Security & privacy
 [![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/screen97.png)
 
 
