@@ -36,16 +36,12 @@ The system is required to reboot after the driver is installed, so please close 
     - 6. Click the "Save" button.
  
 [![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/screen64.png)
-[![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/68747414.png)
-[![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/68747415.png)
+[![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/screen95.png)
+[![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/screen96.png)
 [![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/156.png)
 
-#### Download Release V2 [➤ Wireless USB Adapter.pkg ](https://github.com/chris1111/Wireless-USB-Adapter/releases/tag/V2)
-- Release 10 Nov 2018 (Fast edition install)
-
-
 #### Download Release V1 [➤ Wireless USB Adapter.pkg ](https://github.com/chris1111/Wireless-USB-Adapter/releases/tag/V1)
-- Release 08 Nov 2018 (Slow edition install Rebuild prelinked-kernel) 
+- Release Update 23 Fev 2019 New drivers and new StatusBarApp.app
 
 #### Support Drivers:
 <details> 
