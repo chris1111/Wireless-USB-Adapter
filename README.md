@@ -43,8 +43,12 @@ The system is required to reboot after the driver is installed, so please close 
 [![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/screen96.png)
 [![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/captu516.png)
 
+#### Download Release V2 [➤ Wireless USB Adapter.pkg ](https://github.com/chris1111/Wireless-USB-Adapter/releases/tag/V2)
+- Release Update 13 Mar 2019 New drivers and new StatusBarApp.app
+
 #### Download Release V1 [➤ Wireless USB Adapter.pkg ](https://github.com/chris1111/Wireless-USB-Adapter/releases/tag/V1)
 - Release Update 23 Fev 2019 New drivers and new StatusBarApp.app
+
 
 #### Support Drivers:
 <details> 
