@@ -8,6 +8,8 @@
 
 - Special thanks to [adzodamelk](https://github.com/adzodamelk) for make 
  [testing on a MacBook Air](https://github.com/chris1111/Wireless-USB-Adapter-Clover/issues/3#issuecomment-437034409)
+ 
+- [ My test on my MacBook Pro](https://i25.servimg.com/u/f25/18/50/18/69/screen18.jpg)
 
 
 #### Known Working and testing adapter 
