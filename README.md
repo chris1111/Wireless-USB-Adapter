@@ -11,6 +11,8 @@
  
 - [ My test on my MacBook Pro](https://i25.servimg.com/u/f25/18/50/18/69/screen18.jpg)
 
+- [Credit: Realtek](https://www.realtek.com/en/)
+
 
 #### Known Working and testing adapter 
 - EDIMAX- EW-7722UTn V2 
