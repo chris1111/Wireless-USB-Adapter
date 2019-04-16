@@ -47,6 +47,8 @@ The system is required to reboot after the driver is installed, so please close 
 [![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/screen96.png)
 [![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/scree108.png)
 
+#### Download latest release V3 [➤ Wireless USB Adapter.pkg ](https://github.com/chris1111/Wireless-USB-Adapter/releases/tag/V3)
+- Release Update 16 April 2019 New drivers and new StatusBarApp.app
 
 #### Download Release V2 [➤ Wireless USB Adapter.pkg ](https://github.com/chris1111/Wireless-USB-Adapter/releases/tag/V2)
 - Release Update 20 Mar 2019 New drivers and new StatusBarApp.app with a new Wifi status bar icon
