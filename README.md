@@ -153,6 +153,8 @@ The system is required to reboot after the driver is installed, so please close 
 
 - DLink_DWA182B1_8812AU
 
+- DLink_DWA182C1_8812AU
+
 - DLink_DWA182_8812AU
 
 - DLink_DWA192_8814AU
