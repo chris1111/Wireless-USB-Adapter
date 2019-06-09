@@ -21,11 +21,14 @@
 - EDIMAX N300
 - TRENDnet N150 Micro
 - TL-WN823Nv3
+- TL-WN823Nv2
 - TL-WN725Nv3
 - TL-WN722Nv3
 - TL-WN821Nv6
+- Archer T2U NANO
 - ArcherT4U V3
 - Archer T9UH V2
+- Linksys WUSB6300
 
 
 ##### For macOS Mojave
@@ -63,13 +66,13 @@ The system is required to reboot after the driver is installed, so please close 
 <details> 
   <summary>View list  </summary>
 	
-- 8723BU
+- ASUS_USB-N10E_92CU
 
-- 8821AU
+- ASUS_USB-N13_92CU
 
-- ArcherT4U V3
+- ASUS_USB-N10_92CU
 
-- Archer T9UH V2
+- ASUS_1870_8812BU
 
 - ASUS_USB-N10E_92CU
 
@@ -77,13 +80,31 @@ The system is required to reboot after the driver is installed, so please close 
 
 - ASUS_USB-N13_92CU
 
+- ASUS_USB-AC53_8812BU
+
+- ASUS_USB-AC55B1_8812BU
+
 - ASUS_USB-AC56_8812AU
 
-- ASUS_USB-AC68_8814AU 
+- ASUS_USB-AC55_8812BU
 
-- AboCom_0811_8812AU
+- ASUS_USB-AC68ALL_8814AU
+
+- ASUS_USB-AC68CE_8814AU
+
+- ASUS_USB-AC68FCC_8814AU
+
+- AboCom_8178_92CU
+
+- AboCom_0811_8811AU
+
+- AboCom_8189_92CU
+
+- AboCom_92EU
 
 - AboCom_88EU
+
+- AboCom_AC_8812AU
 
 - AboCom_AC_8812AU
 
@@ -96,6 +117,12 @@ The system is required to reboot after the driver is installed, so please close 
 - AboCom_8178_92CU
 
 - AboCom_8189_92CU
+
+- Actiontec_8105_SingleBand_8811AU
+
+- Actiontec_8108_DualBand_8811AU
+
+- Amigo_92CU
 
 - Amigo_92CU
 
@@ -347,6 +374,8 @@ The system is required to reboot after the driver is installed, so please close 
 
 - Sitecom_WLA8100_8814AU
 
+- TPLink-Archer_T2U_NANO
+
 - TL-WN823Nv3
 
 - TL-WN725Nv3
@@ -397,6 +426,6 @@ The system is required to reboot after the driver is installed, so please close 
 
 - ZyXEL_92CU
 		
+		
 
 </details>
-
