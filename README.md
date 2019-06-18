@@ -53,6 +53,8 @@ The system is required to reboot after the driver is installed, so please close 
 [![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/scree108.png)
 
 
+#### Download Release V5 [➤ Wireless USB Adapter.pkg ](https://github.com/chris1111/Wireless-USB-Adapter/releases/tag/V5)
+- Release Update 18 June 2019 Package Support macOS Catalina 10.15 Beta 2
 
 #### Download latest release V4 [➤ Wireless USB Adapter.pkg ](https://github.com/chris1111/Wireless-USB-Adapter/releases/tag/V4)
 - Release Update 09 June 2019 Package Support macOS Catalina 10.15
@@ -65,6 +67,7 @@ The system is required to reboot after the driver is installed, so please close 
 
 #### Download Release V1 [➤ Wireless USB Adapter.pkg ](https://github.com/chris1111/Wireless-USB-Adapter/releases/tag/V1)
 - Release Update 23 Fev 2019 New drivers and new StatusBarApp.app
+
 
 
 #### Support Drivers:
