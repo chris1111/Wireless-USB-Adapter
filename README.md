@@ -11,6 +11,8 @@
 - Special thanks to ➣ [adzodamelk](https://github.com/adzodamelk) for make 
  [testing on a MacBook Air](https://github.com/chris1111/Wireless-USB-Adapter-Clover/issues/3#issuecomment-437034409)
  
+- My test macOS Catalina 10.15 (19A512f) [See ➣ My result](https://i25.servimg.com/u/f25/18/50/18/69/captu781.png)
+
 - My test ➣ [My MacBook Pro macOS Mojave 10.14.5](https://i25.servimg.com/u/f25/18/50/18/69/screen27.jpg)
 
 - Credit: ➣ [Realtek](https://www.realtek.com/en/)
