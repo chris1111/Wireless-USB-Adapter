@@ -19,62 +19,19 @@
 
 
 #### Known Working and testing adapter 
-- EDIMAX- EW-7722UTn V2 
+- Archer T2U NANO
+- ArcherT4U V3
+- Archer T9UH V2
+- ASUS USB AC68
+- EDIMAX EW-7722UTn V2 
 - EDIMAX N300
-- TRENDnet N150 Micro
+- Linksys WUSB6300
 - TL-WN823Nv3
 - TL-WN823Nv2
 - TL-WN725Nv3
 - TL-WN722Nv3
 - TL-WN821Nv6
-- Archer T2U NANO
-- ArcherT4U V3
-- Archer T9UH V2
-- Linksys WUSB6300
-
-
-##### For macOS Mojave
-- (SIP activate) You must accept the three pop up preferance system for the kernel extensions and after the reboot you must allow Realtek Utility in Security & privacy
-[![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/screen97.png)
-
-
-This driver runs from OS X Mavericks 10.9 to macOS Catalina 10.15.
-The system is required to reboot after the driver is installed, so please close all the other applications before installing this software. After the system boots up and you enter the system, please follow the following steps to configure the network:
-
-- Instructions:
-    - 1. Connect to the WLAN from the status bar Icons.
-    - 2. Select the "System Preference" from the system menu.
-    - 3. Select and launch the "Network" item in the "System Preference" folder.
-    - 4. From the "Configure" list, select the correct adapter and configure it.
-    - 5. Configure the settings.
-    - 6. Click the "Save" button.
- 
-[![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/screen64.png)
-[![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/screen95.png)
-[![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/screen96.png)
-[![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/scree108.png)
-
-
-#### Download Release V6 [➤ Wireless USB Adapter.pkg ](https://github.com/chris1111/Wireless-USB-Adapter/releases/tag/V6)
-- Release Update 17 Sept 2019 New Driver + New StatusBarApp
-- Package Support macOS Catalina 10.15 Beta 
-
-#### Download Release V5 [➤ Wireless USB Adapter.pkg ](https://github.com/chris1111/Wireless-USB-Adapter/releases/tag/V5)
-- Release Update 18 June 2019 Package Support macOS Catalina 10.15 Beta 
-
-#### Download latest release V4 [➤ Wireless USB Adapter.pkg ](https://github.com/chris1111/Wireless-USB-Adapter/releases/tag/V4)
-- Release Update 09 June 2019 Package Support macOS Catalina 10.15 Beta
-
-#### Download latest release V3 [➤ Wireless USB Adapter.pkg ](https://github.com/chris1111/Wireless-USB-Adapter/releases/tag/V3)
-- Release Update 08 June 2019 Support macOS Catalina 10.15 in README
-
-#### Download Release V2 [➤ Wireless USB Adapter.pkg ](https://github.com/chris1111/Wireless-USB-Adapter/releases/tag/V2)
-- Release Update 20 Mar 2019 New drivers and new StatusBarApp.app with a new Wifi status bar icon
-
-#### Download Release V1 [➤ Wireless USB Adapter.pkg ](https://github.com/chris1111/Wireless-USB-Adapter/releases/tag/V1)
-- Release Update 23 Fev 2019 New drivers and new StatusBarApp.app
-
-
+- TRENDnet N150 Micro
 
 #### Support Drivers:
 <details> 
@@ -443,3 +400,47 @@ The system is required to reboot after the driver is installed, so please close 
 		
 
 </details>
+
+
+
+
+##### For macOS Mojave
+- (SIP activate) You must accept the three pop up preferance system for the kernel extensions and after the reboot you must allow Realtek Utility in Security & privacy
+[![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/screen97.png)
+
+
+This driver runs from OS X Mavericks 10.9 to macOS Catalina 10.15.
+The system is required to reboot after the driver is installed, so please close all the other applications before installing this software. After the system boots up and you enter the system, please follow the following steps to configure the network:
+
+- Instructions:
+    - 1. Connect to the WLAN from the status bar Icons.
+    - 2. Select the "System Preference" from the system menu.
+    - 3. Select and launch the "Network" item in the "System Preference" folder.
+    - 4. From the "Configure" list, select the correct adapter and configure it.
+    - 5. Configure the settings.
+    - 6. Click the "Save" button.
+ 
+[![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/screen64.png)
+[![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/screen95.png)
+[![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/screen96.png)
+[![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/scree108.png)
+
+
+#### Download Release V6 [➤ Wireless USB Adapter.pkg ](https://github.com/chris1111/Wireless-USB-Adapter/releases/tag/V6)
+- Release Update 17 Sept 2019 New Driver + New StatusBarApp
+- Package Support macOS Catalina 10.15 Beta 
+
+#### Download Release V5 [➤ Wireless USB Adapter.pkg ](https://github.com/chris1111/Wireless-USB-Adapter/releases/tag/V5)
+- Release Update 18 June 2019 Package Support macOS Catalina 10.15 Beta 
+
+#### Download latest release V4 [➤ Wireless USB Adapter.pkg ](https://github.com/chris1111/Wireless-USB-Adapter/releases/tag/V4)
+- Release Update 09 June 2019 Package Support macOS Catalina 10.15 Beta
+
+#### Download latest release V3 [➤ Wireless USB Adapter.pkg ](https://github.com/chris1111/Wireless-USB-Adapter/releases/tag/V3)
+- Release Update 08 June 2019 Support macOS Catalina 10.15 in README
+
+#### Download Release V2 [➤ Wireless USB Adapter.pkg ](https://github.com/chris1111/Wireless-USB-Adapter/releases/tag/V2)
+- Release Update 20 Mar 2019 New drivers and new StatusBarApp.app with a new Wifi status bar icon
+
+#### Download Release V1 [➤ Wireless USB Adapter.pkg ](https://github.com/chris1111/Wireless-USB-Adapter/releases/tag/V1)
+- Release Update 23 Fev 2019 New drivers and new StatusBarApp.app
