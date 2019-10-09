@@ -401,10 +401,18 @@
 
 </details>
 
+##### For macOS Catalina 10.15
+### You need the SIP (Syetem Integrity Protection) disable and the Gatekeeper
+- Maybe soon you will be able to use the program with the SIP enable but you have to wait for them to develop from Realtek
+
+- See my new video on macOS Catalina
+## Follow every steps in the Video ⬇︎
+[![Modular Image Creation](https://i.ibb.co/K5bFrB5/VIDEO.png)](https://youtu.be/x_mg0lCSghM)
 
 
 
-##### For macOS Mojave
+
+##### For macOS Mojave 10.14.6
 - (SIP activate) You must accept the three pop up preferance system for the kernel extensions and after the reboot you must allow Realtek Utility in Security & privacy
 [![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/screen97.png)
 
