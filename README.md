@@ -404,7 +404,7 @@
 </details>
 
 ### For macOS Catalina 10.15
-- Working with SIP Enable but you need the Gatekeeper disable 
+- Update 17 Oct 2019 ➣ Working with SIP Enable but you need the Gatekeeper disable 
 
 - See my new video on macOS Catalina
 ## Follow every steps in the Video ⬇︎
