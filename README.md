@@ -1,7 +1,9 @@
 ## Wireless USB Adapter
 
 ### Welcome to Wireless USB Adapter
-- Support macOS Catalina 10.15, macOS Mojave 10.14
+### Support macOS Catalina 10.15, macOS Mojave 10.14, macOS High Sierra 10.13, macOS Sierra 10.12, OS X El Capitan 10.11, OS X Yosemite 10.10, OS X Mavericks 10.9
+
+- Update 17 Oct 2019 Support macOS 10.15 / 10.9
  
 #### Drivers for Realtek 802.11n and 802.11ac USB Wi-Fi adapters 
 
@@ -401,9 +403,8 @@
 
 </details>
 
-##### For macOS Catalina 10.15
-### You need the SIP (Syetem Integrity Protection) disable and the Gatekeeper
-- Maybe soon you will be able to use the program with the SIP enable but you have to wait for them to develop from Realtek
+### For macOS Catalina 10.15
+- Working with SIP Enable but you need the Gatekeeper disable 
 
 - See my new video on macOS Catalina
 ## Follow every steps in the Video ⬇︎
@@ -433,6 +434,8 @@ The system is required to reboot after the driver is installed, so please close 
 [![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/screen96.png)
 [![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/scree108.png)
 
+#### Download Release V7 [➤ Wireless USB Adapter.pkg ](https://github.com/chris1111/Wireless-USB-Adapter/releases/tag/V7)
+- Release Update 17 Oct 2019 Support macOS 10.15 / 10.9
 
 #### Download Release V6 [➤ Wireless USB Adapter.pkg ](https://github.com/chris1111/Wireless-USB-Adapter/releases/tag/V6)
 - Release Update 17 Sept 2019 New Driver + New StatusBarApp
