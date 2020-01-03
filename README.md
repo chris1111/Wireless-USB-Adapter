@@ -37,6 +37,7 @@
 - TL-WN823Nv3
 - TL-WN823Nv2
 - TL-WN725Nv3
+- TL-WN723Nv3
 - TL-WN722Nv3
 - TL-WN821Nv6
 - TL-WN822Nv5
@@ -364,6 +365,8 @@
 
 - TL-WN725Nv3
 
+- TL-WN723Nv3
+
 - TL-WN722Nv3
 
 - TL-WN821Nv6
@@ -409,10 +412,10 @@
 - ZyXEL_AC_8812AU
 
 - ZyXEL_92CU
-		
-		
+				
 
 </details>
+
 
 ### For macOS Catalina 10.15
 - Update 17 Oct 2019 ➣ Working with SIP Enable but you need the Gatekeeper disable 
