@@ -23,6 +23,9 @@ Release Update 29 Nov 2019 New drivers for macOS Catalina 10.15
 
 - Credit: ➣ [Realtek](https://www.realtek.com/en/)
 
+- Thanks to airomeo for Translation(Simplified Chinese)[ zh-Hans for Wireless Utility](https://github.com/chris1111/Wireless-USB-Adapter/issues/44#issuecomment-589582148)
+ 
+
 
 #### Known Working and testing adapter 
 - Archer T2U NANO
