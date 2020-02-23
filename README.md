@@ -455,6 +455,7 @@ The system is required to reboot after the driver is installed, so please close 
 [![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/screen96.png)
 [![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/scree108.png)
 
+#### Download latest Release V9 [➤ Wireless USB Adapter.pkg ](https://github.com/chris1111/Wireless-USB-Adapter/releases/tag/V9)
 
 #### Download Release V8 [➤ Wireless USB Adapter.pkg ](https://github.com/chris1111/Wireless-USB-Adapter/releases/tag/V8)
 - Release Update 29 Nov 2019 New drivers for macOS Catalina 10.15
