@@ -6,7 +6,7 @@
 ### Welcome to Wireless USB Adapter
 ### Support macOS Catalina 10.15, macOS Mojave 10.14, macOS High Sierra 10.13, macOS Sierra 10.12, OS X El Capitan 10.11, OS X Yosemite 10.10, OS X Mavericks 10.9
 
-- Release Update 23 Fev 2020 Adapted for macOS Catalina 10.15.4
+- Release Update 23 Feb 2020 Adapted for macOS Catalina 10.15.4
 
  
 #### Drivers for Realtek 802.11n and 802.11ac USB Wi-Fi adapters 
@@ -456,7 +456,7 @@ The system is required to reboot after the driver is installed, so please close 
 [![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/scree108.png)
 
 #### Download latest Release V9 [➤ Wireless USB Adapter.pkg ](https://github.com/chris1111/Wireless-USB-Adapter/releases/tag/V9)
-- Release Update 23 Fev 2020 Adapted for macOS Catalina 10.15.4
+- Release Update 23 Feb 2020 Adapted for macOS Catalina 10.15.4
 
 #### Download Release V8 [➤ Wireless USB Adapter.pkg ](https://github.com/chris1111/Wireless-USB-Adapter/releases/tag/V8)
 - Release Update 29 Nov 2019 New drivers for macOS Catalina 10.15
