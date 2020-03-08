@@ -431,10 +431,10 @@
 ## Follow every steps in the Video ⬇︎
 [![Modular Image Creation](https://i.ibb.co/K5bFrB5/VIDEO.png)](https://youtu.be/x_mg0lCSghM)
 
-- See video How to change the WIFI Icons
-## Follow every steps in the Video ⬇︎
+## See video How to change the WIFI Icons ⬇︎
 [![Modular Image Creation](https://user-images.githubusercontent.com/6248794/76169102-84ff8080-614b-11ea-905f-4d10f7081262.png)](https://youtu.be/54o1UMAycyQ)
-.#### Download Release V5 [➤ WIFI Icon Collor.pkg ](https://raw.githubusercontent.com/chris1111/Wireless-USB-Adapter/master/WIFI%20Icon%20Collor.zip)
+
+### Download [➤ WIFI Icon Collor.pkg ](https://raw.githubusercontent.com/chris1111/Wireless-USB-Adapter/master/WIFI%20Icon%20Collor.zip)
 
 
 
