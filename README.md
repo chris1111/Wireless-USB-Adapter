@@ -52,7 +52,7 @@
 - TL-WN822Nv5
 - TRENDnet N150 Micro
 
-#### Support Drivers:
+## Support Drivers: (Adapter)
 <details> 
   <summary>View list  </summary>
 	
