@@ -30,6 +30,7 @@
 #### Known Working and testing adapter 
 - Archer T2U NANO
 - Archer T3U
+- Archer T2U MINI V3
 - ArcherT4U V3
 - Archer T9UH V2
 - ASUS USB AC68
