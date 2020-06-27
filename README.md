@@ -428,6 +428,8 @@
 
 </details>
 
+### NOTE: this program is not responsible for any damage or machine that does not boot anymore.
+
 
 ### For macOS Catalina 10.15
 - Update 17 Oct 2019 ➣ Working with SIP Enable but you need the Gatekeeper disable 
