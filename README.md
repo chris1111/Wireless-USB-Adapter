@@ -8,7 +8,7 @@
 
 ##### For macOS Big Sur 11 go to this page https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter
 
-- Release Update 01 June 2020 New Driver and Utility
+- Release V13 Update 18 Sept 2020 new Wifi Icon
 
  
 #### Drivers for Realtek 802.11n and 802.11ac USB Wi-Fi adapters 
@@ -471,7 +471,10 @@ The system is required to reboot after the driver is installed, so please close 
 [![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/screen96.png)
 [![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/scree108.png)
 
-#### Download latest Release V12 [➤ Wireless USB Adapter.pkg ](https://github.com/chris1111/Wireless-USB-Adapter/releases/tag/V12)
+#### Download latest Release V13 [➤ Wireless USB Adapter.pkg ](https://github.com/chris1111/Wireless-USB-Adapter/releases/tag/V13)
+- Release Update 18 Sept 2020 new Wifi Icon
+
+#### Download Release V12 [➤ Wireless USB Adapter.pkg ](https://github.com/chris1111/Wireless-USB-Adapter/releases/tag/V12)
 - Release Update 01 June 2020 New Driver and Utility
 
 #### Download Release V11 [➤ Wireless USB Adapter.pkg ](https://github.com/chris1111/Wireless-USB-Adapter/releases/tag/V11)
