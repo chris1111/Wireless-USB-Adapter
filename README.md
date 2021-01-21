@@ -471,7 +471,11 @@ The system is required to reboot after the driver is installed, so please close 
 [![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/screen96.png)
 [![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/scree108.png)
 
-#### Download latest Release V13 [➤ Wireless USB Adapter.pkg ](https://github.com/chris1111/Wireless-USB-Adapter/releases/tag/V13)
+
+#### Download latest Release V14 [➤ Wireless USB Adapter.pkg ](https://github.com/chris1111/Wireless-USB-Adapter/releases/tag/V14)
+- Release Update 21 Jan 2021 fr-CA.lproj, French.lproj Localizable.strings
+
+#### Download Release V13 [➤ Wireless USB Adapter.pkg ](https://github.com/chris1111/Wireless-USB-Adapter/releases/tag/V13)
 - Release Update 18 Sept 2020 new Wifi Icon
 
 #### Download Release V12 [➤ Wireless USB Adapter.pkg ](https://github.com/chris1111/Wireless-USB-Adapter/releases/tag/V12)
