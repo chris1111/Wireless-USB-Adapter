@@ -1,0 +1,207 @@
+/* Localizable String */
+sUIName = "Utilitaire de réseau Wi-Fi";
+sUIVersion = "Version de l’utilitaire";
+sDriverVersion = "Version du pilote : v ";
+sCopyright = "Copyright 2019.";
+
+// Button
+OK ="OK";
+CANCEL ="Annuler";
+NO ="Non";
+YES ="Oui";
+Join="Se connecter";
+Profiles="Profils";
+Join_Other="Autre…";
+Show_Nets="Afficher les réseaux";
+Apply="Appliquer";
+Remove="Supprimer";
+PIN="PIN";
+PBC="PBC";
+Forget="Oublier ce réseau";
+
+//DropDownMenu
+State_RfOn="USB-WiFi : activé";
+State_RfOff="USB-WiFi : désactivé";
+State_Scan="USB-WiFi : analyse des réseaux…";
+State_Unplug="Aucun USB-WiFi branché";
+State_Disable="Veuillez activer USB-WiFi";
+
+Info_IfName="Nom d’interface :";
+Info_MacAddr="Adresse :";
+Info_IpAddr= "Adresse IP :";
+Info_Router= "Routeur :";
+Info_Reachable= "Internet : accessible";
+Info_Unreachable= "Internet : inaccessible";
+//Info_Security
+Info_BSSID= "BSSID :";
+Info_Channel= "Canal :";
+Info_CountryCode= "Code pays :";
+Info_RSSI= "RSSI :";
+Info_Noise= "Interférences :";
+Info_TxRate= "Débit de transmission :";
+Info_PhyMode= "Mode PHY :";
+Info_McsIndex= "Index MCS :";
+
+Radio_ON ="Activer USB-WiFi";
+Radio_OFF ="Désactiver USB-WiFi";
+Uninstall = "Désinstaller USB-WiFi";
+DebugTool = "Outils de diagnostique WLAN";
+Join_Other_Network="Se connecter à un autre réseau…";
+Create_Adhoc="Créer un réseau ad hoc…";
+WPS_Fun="WPS…";
+Open_Utility="Modifier la liste Réseaux préférés…";
+Open_Preference="Ouvrir Préférences réseau…";
+
+//ScanTable View
+ScanTable_View_Title="Rechercher et rejoindre un réseau Wi-Fi"; //follow 10.12
+ScanTable_View_SubTitle="Sélectionnez le réseau auquel vous désirez vous connecter dans la liste, puis saisissez le mot de passe du réseau si nécessaire.";
+Associated="Associé";
+SignalStrength="Puissance du signal";
+Scanning="Recherche…";
+
+// Setting Field View
+Join_BroadcastSecAP1="Le réseau";
+Join_BroadcastSecAP2="nécessite un mot de passe";
+Join_BroadcastSecAP3="";
+Join_HiddenSecAP1="Ce réseau Wi-Fi masqué requiert un";
+Join_HiddenSecAP2="mot de passe";
+Join_HiddenOpenAP="Saisir un nom de réseau Wi-Fi masqué.";
+
+// Join Other
+Create_Infra_Title="Veuillez saisir le nom du réseau Wi-Fi.";
+Create_Infra_SubTitle="Saisissez le nom du réseau Wi-Fi auquel vous souhaitez vous connecter, puis le mot de passe si nécessaire.";
+Create_Adhoc_Title="Créer un réseau ad hoc.";
+Create_Adhoc_SubTitle="Saisissez le nom du réseau ad hoc que vous souhaitez créer.";
+
+//Setting Field
+Security_None="Aucune";
+Security_OpenWep="WEP À SYSTÈME_OUVERT";
+Security_SharedWep="WEP À CLÉ_PARTAGÉE";
+Security_WpaTkip="WPA_PSK TKIP";
+Security_WpaAes="WPA_PSK AES";
+Security_Wpa2Tkip="WPA2_PSK TKIP";
+Security_Wpa2Aes="WPA2_PSK AES";
+Security_WpaTkip1X="WPA Enterprise TKIP";
+Security_WpaAes1X="WPA Enterprise AES";
+Security_Wpa2Tkip1X="WPA2 Enterprise TKIP";
+Security_Wpa2Aes1X="WPA2 Enterprise AES";
+Security_WEP1X="802.1X WEP";
+Security_WpaNoneTkip="WPA_Aucun TKIP";
+Security_WpaNoneAes="WPA_Aucun AES";
+Security_MixMode="sécurité";
+Security_Wpa3Sae="WPA3 SAE";
+Security_Wpa3SuiteB="WPA3 SuiteB";
+Security_Wpa3Owe="WPA3 OWE";
+
+//Profile Security Field
+Profile_Wep="WEP";
+Profile_Wpa="WPA personnel";
+Profile_Wpa2="WPA2 personnel";
+Profile_Wpa1X="WPA enterprise";
+Profile_Wpa21X="WPA2 enterprise";
+Profile_Wpa3="WPA3 personal";
+Profile_Wpa31X="WPA3 enterprise";
+Profile_WpaNone="WPA-aucun";
+
+NetworkName="Nom de réseau :";
+Security="Sécurité :";
+Password="Mot de passe :";
+ShowPassword="Afficher le mot de passe";
+ASCII="ASCII";
+UserName="Identifiant :";
+EAP="802.1X EAP :";
+PEAP="Automatique (PEAP)";
+TLS="EAP-TLS";
+TTLS="EAP-TTLS";
+LEAP="EAP-LEAP";
+CA_Cert="Certificat CA :";
+Client_Cert="Certificat client :";
+Private_Key="Clé privée :";
+Private_Key_Pwd="Mot de passe de clé privée :";
+
+Choose_Private_Key="Sélectionnez le fichier de clé privée (PEM/DER/PFX)";
+Choose_Client_Cert="Sélectionnez le fichier de certificat client (PEM/DER/PFX)";
+Choose_CA_Cert="Sélectionnez le fichier de certificat CA (PEM/DER/CER)";
+
+Select_KeyChain_Cert_Desc="Sélectionnez le certificat à partir du trousseau d’accès";
+Select_File_Cert_Desc="Sélectionner le fichier de certificat";
+Select_KeyChain_Identity_Desc="Sélectionnez l’identité à partir du trousseau d’accès";
+Select_KeyChain_Key_Desc="Sélectionnez la clé privée à partir du trousseau d’accès";
+Select_File_Key_Desc="Sélectionnez le fichier de trousseau d’accès";
+
+Cert_Expire="Le fichier de certificat a expiré";
+
+Cert_Examine_Title1="Authentification auprés du réseau";
+Cert_Examine_Title2=" ";
+Cert_Examine_Info1="Avant de vous authentifier auprés du serveur";
+Cert_Examine_Info2=", vous devez examiner son certificat pour vous assurer qu’il est approprié pour ce réseau.\n\n Pour consulter le certificat, cliquez sur « Afficher le certificat ».";
+
+
+// Profiles
+PreferredNet="Réseaux préférés :";
+StateTitle="État";
+SSIDTitle="Nom de réseau";
+SecurityTitle="Sécurité";
+
+
+//WPS 
+WPS_PIN_Title="Veuillez saisir le code PIN sur la page de configuration de votre point d’accès";
+WPS_PBC_Title="Le bouton de configuration (PBC) est employé";
+WPS_Second="s";
+WPS_Progress="Processus WPS :";
+WPS_init_Str = " Initialisation du processus WPS";
+WPS_scan_Str = " Analyse du point d’accès WPS actif";
+WPS_connect_Str = " Connexion au point d’accès WPS actif";
+WPS_handshake_Str ="Initialisation de l’établissement de la liaison WPS";
+WPS_exchange_Str =" Échange de message WPS  ";
+WPS_done_Str = " Échange de message WPS [effectué]";
+WPS_fail_Str = " Échec de l’échange de message WPS. Essayez de vous connecter à un autre point d’accès WPS";
+WPS_start_Str = " DÉMARRAGE WPS ";
+WPS_finish_Str = " Protocole WPS terminé !!";
+WPS_auto_connect_Str = "La connexion au point d’accès WPS va être établie automatiquement.";
+WPS_timeout_Str = " Expiration du délai WPS !!";
+WPS_connection_failed_Str = " Échec de la connexion. Veuillez réessayer plus tard !!";
+
+Wps_overlap_Str = " Chevauchement de session";
+Wps_more_pbc_Str = " Plusieurs points d’accès sont en mode PBC !!";
+Wps_retry_Str = " Veuillez utiliser le code PIN ou patienter quelques instants avant de d’essayer à nouveau";
+
+ERROR0 = "ERREUR";
+ERROR1 = "Veuillez entrer la clé !";
+ERROR2 = "Index de clé WEP incorrect !!!";
+ERROR3 = "La clé doit comporter entre 8 et 63 caractères ASCII ou 64 caractères hexadécimaux !";
+ERROR4 = "La clé de réseau n’est pas au format hexadécimal (0~9, a~f, A~F) !";
+ERROR5 = "La clé ASCII doit comporter 5 ou 13 caractères !";
+ERROR6 = "La longueur de la clé de réseau est incorrecte !";
+ERROR7 = "La clé de réseau doit comporter 10 ou 26 caractères !";
+ERROR8 = "La clé de réseau et la clé de confirmation ne sont pas identiques !";
+ERROR9 = "La clé de réseau n’est pas au format ASCII !";
+ERROR10 = "La clé de réseau n’est pas au format hexadécimal à 64 caractères (0~9, a~f, A~F) !";
+ERROR11 = "Ce paramètre pays ne permet pas la connexion à un réseau ad hoc avec les canaux 12, 13 ou avec la bande2, la bande3 !!";
+ERROR12 = "Impossible de se connecter au réseau ad hoc en utilisant WPA-AUCUN !!";
+ERROR13 = "Impossible de se connecter au réseau ad hoc en utilisant WPA2-PSK !!";
+ERROR14 = "Le mode WPA / WPA2 Enterprise n’est pas pris en charge !!";
+ERROR15 = "Veuillez autoriser l’accès de l’utilitaire au porte-clés.";
+ERROR16 = "WPA3 n’est pas géré !!";
+
+WARNING0 = "Attention";
+WARNING1 = "Veuillez entrer le SSID";
+WARNING2 = "Veuillez entrer le nom de profil";
+WARNING3 = "Le nombre de caractères du SSID dépasse la limite des 32 caractères autorisés.";
+WARNING4 = "Le profil existe déjà. Souhaitez-vous le remplacer ?";
+WARNING5 = "Êtes-vous certain de vouloir supprimer le profil sélectionné ?";
+
+NOTICE0 = "AVIS";
+NOTICE1 = "Erreur de mode du point d’accès.";
+NOTICE2 = "Erreur de mode STA.";
+NOTICE3 = "Échec de définition de la valeur du mode QoS";
+NOTICE4 = "Échec de l’obtention de la valeur du mode QoS";
+NOTICE5 = "Valeur du mode QoS incorrecte";	
+NOTICE6 = "Le seuil RTS est hors de la plage autorisée (entre 0 et 2432).";
+NOTICE7 = "Le seuil de fragmentation est hors de la plage autorisée (entre 256 et 2432).";
+NOTICE8 = "Veuillez activer USB-WiFi sur la page Réseau des Préférences Système.";
+NOTICE9 = "Connectez votre USB-WiFi à votre ordinateur";
+NOTICE10 = "Mot de passe incorrect, veuillez recommencer";
+NOTICE11 = "Êtes-vous certain de vouloir désinstaller ?";
+NOTICE12 = "Extension système bloquée";
+NOTICE13 = "L’extension système du développeur « Realtek Semiconductor Corp » a été bloquée.";
