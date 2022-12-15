@@ -10,7 +10,7 @@
 ### New ➤ [macOS 11, 12, 13](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter)
 
 
-- Release V13 Update 18 Sept 2020 new Wifi Icon
+- Release V15 Update 14 Dec 2022 New Utility
 
  
 #### Drivers for Realtek 802.11n and 802.11ac USB Wi-Fi adapters 
@@ -474,34 +474,6 @@ The system is required to reboot after the driver is installed, so please close 
 [![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/scree108.png)
 
 
-#### Download latest Release V14 [➤ Wireless USB Adapter.pkg ](https://github.com/chris1111/Wireless-USB-Adapter/releases/tag/V14)
-- Release Update 21 Jan 2021 fr-CA.lproj, French.lproj Localizable.strings
-
-#### Download Release V13 [➤ Wireless USB Adapter.pkg ](https://github.com/chris1111/Wireless-USB-Adapter/releases/tag/V13)
-- Release Update 18 Sept 2020 new Wifi Icon
-
-#### Download Release V12 [➤ Wireless USB Adapter.pkg ](https://github.com/chris1111/Wireless-USB-Adapter/releases/tag/V12)
-- Release Update 01 June 2020 New Driver and Utility
-
-#### Download Release V11 [➤ Wireless USB Adapter.pkg ](https://github.com/chris1111/Wireless-USB-Adapter/releases/tag/V11)
-- Release Update 07 March 2020 New Driver and Utility
-
-#### Download Release V10 [➤ Wireless USB Adapter.pkg ](https://github.com/chris1111/Wireless-USB-Adapter/releases/tag/V10)
-- Release Update 25 Feb 2020 Better package configuration
-
-#### Download Release V9 [➤ Wireless USB Adapter.pkg ](https://github.com/chris1111/Wireless-USB-Adapter/releases/tag/V9)
-- Release Update 23 Feb 2020 Adapted for macOS Catalina 10.15.4
-
-#### Download Release V8 [➤ Wireless USB Adapter.pkg ](https://github.com/chris1111/Wireless-USB-Adapter/releases/tag/V8)
-- Release Update 29 Nov 2019 New drivers for macOS Catalina 10.15
-
-#### Download Release V7 [➤ Wireless USB Adapter.pkg ](https://github.com/chris1111/Wireless-USB-Adapter/releases/tag/V7)
-- Release Update 17 Oct 2019 Support macOS 10.15 / 10.9
-
-#### Download Release V6 [➤ Wireless USB Adapter.pkg ](https://github.com/chris1111/Wireless-USB-Adapter/releases/tag/V6)
-- Release Update 17 Sept 2019 New Driver + New StatusBarApp
-- Package Support macOS Catalina 10.15 Beta 
-
-#### Download Release V5 [➤ Wireless USB Adapter.pkg ](https://github.com/chris1111/Wireless-USB-Adapter/releases/tag/V5)
-- Release Update 18 June 2019 Package Support macOS Catalina 10.15 Beta 
+#### Download latest Release V15 [➤ Wireless USB Adapter.pkg ](https://github.com/chris1111/Wireless-USB-Adapter/releases/tag/V15)
+- Release Update 14 Dec 2022 Update Utility
 
