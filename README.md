@@ -1,4 +1,4 @@
-## New ➤ [macOS10.15, macos 11, 12, 13, 14](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter)
+## New ➤ [macOS 10.15, macos 11, 12, 13, 14](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter)
 
 
 
